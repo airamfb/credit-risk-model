@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+
+# Raw datasets
+data/raw/
+
+# SQLite database
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
